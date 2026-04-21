@@ -21,27 +21,32 @@ Work experience
 ======
 * September 2025 - current: Research Assistant
   * University of Alberta
-  * Duties includes: Develop a website for a project in collaboration with Ritsumeikan University 
+  * Duties includes: Develop a website for a project in collaboration with Ritsumeikan University and Toei Film Studios.
   * Supervisor: Geoffrey Rockwell
 
 * Winter 2026: Library Stacks Special Projects Assistant
   * University of Alberta 
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Duties included: organizing materials at University of Alberta Library to be archived
+  * Supervisor: Virginia Pow
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2020-2026: Studio Assistant
+  * Rachel K. Garceau Studio LLC
+  * Duties included: Coordinated project timelines for plaster mold making, porcelain slip casting, and art installations.
+  * Supervisor: Rachel K. Garceau
+    
+* 2023-2025: Bar Lead
+  * Himitsu 
+  * Duties included: Led a team in preparation for bar service with high-quality classic and signature cocktails.
+  * Supervisor: Brenden Seery
+ 
+ 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language skills- Japanese and English
+* Technical  skills:
+  * Intermediate Python; ; ; Beginner Javascript; 
+  * Intermediate HTML; Intermediate CSS
+  * Proficient with Microsoft suite and Google suite,
 
 Publications
 ======
@@ -63,4 +68,16 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Funding Officer, Digital Humanities Student Association (DHSA) – Fall 2025 - current
+  * University of Alberta
+* Junior Secretary, Library & Information Studies Student Association  (LISSA) – Fall 2025 - current
+  * University of Alberta
+* CJSR, Shout! For Libraries – Fall 2025 - current
+  * University of Alberta
+* Junior Co-chair, Forum of Information Professionals (FIP) – Fall 2025 - current
+  * University of Alberta
+* LISSA Representative Future Librarians for Intellectual Freedom (FLIF) – Fall 2025 - current
+  * University of Alberta
+* Volunteer Teacher Assistant, Japanese 101 - East Asian Studies– Fall 2025
+  * University of Alberta
+
