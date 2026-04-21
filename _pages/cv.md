@@ -11,19 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* University of Alberta, Edmonton – Masters of Digital Humanities & Masters of Library and  Information Studies
+September 2025 – Present 
+
+* Georgia State University, Atlanta Georgia – Bachelors of Fine Arts Studio, 3D Studies
+August 2015 – May 2019						Summa Cum Laude
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* September 2025 - current: Research Assistant
+  * University of Alberta
+  * Duties includes: Develop a website for a project in collaboration with Ritsumeikan University 
+  * Supervisor: Geoffrey Rockwell
 
-* Fall 2015: Research Assistant
-  * GitHub University
+* Winter 2026: Library Stacks Special Projects Assistant
+  * University of Alberta 
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
