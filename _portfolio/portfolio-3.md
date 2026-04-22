@@ -4,6 +4,6 @@ excerpt: This is a not-so-game on Downpour. I used it as a quick demostration of
 collection: portfolio
 
 ---
-Click the link below and get access to a Downpour "not-so-game" but rather you'll see, step by step, how the letter "X" gets stitched up.  :)
+Click the link below to access my "not-so-game" Downpour game; you'll see, step by step, how the letter "X" gets stitched up. :)
 
 [Stitch an X](https://downpour.games/~anartika/stitch-an-x?p=ur1)
