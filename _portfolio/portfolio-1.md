@@ -1,5 +1,5 @@
 ---
-title: "How to make an Embroidered Font Zine"
+title: "How to Make an Embroidered Font Zine"
 excerpt: "My little zine of my journey on how to turn my embroidered letters into a font <3<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
