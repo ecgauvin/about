@@ -11,4 +11,6 @@ Hello, my name is Erika Gauvin, and I am currently pursuing my MA/MLIS in Digita
 
 Which leads me to my final project (and ongoing long-term project) of embroidering a Font inspired by traditional Ainu Embroidery, "chijiri." For those unfamiliar, the Ainu people are the Indigenous people of Northern Japan. Unfortunately, it is not a unique tale, but the Ainu people were colonized and forced to assimilate into Japanese society, losing much of their culture, heritage, and language. They were officially recognized as Indigenous peoples of Japan only in 2008, which sparked a cultural awakening, especially of Ainu embroidery. The Ainu believed that certain embroidered patterns and styles could ward off evil spirits, as seen in some abstract imagery of chains and thorns. My overarching goal for this project is to expand awareness of Ainu embroidery, and I thought creating a typable form of the embroidery would be a great way to do so. Currently, I have accomplished the Uppercase of one of the three techniques of "chijiri" embroidery. As this project expands, I will include lowercase letters and punctuation such as (!?,:;.), as well as the other "chijiri" techniques.
 
+![Embroidered Letters](/about/images/IMG_6269.png)
+
 
