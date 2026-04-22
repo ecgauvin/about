@@ -4,4 +4,4 @@ excerpt: I updated my Bitsy game "Spookie Dookie" slightly with a more elaborate
 collection: portfolio
 
 ---
-spooky_dookie (2).html
+[Play Spookie Dookie](../../files/spooky_dookie (2).html)
