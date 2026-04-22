@@ -15,7 +15,5 @@ Which leads me to my final project (and ongoing long-term project) of embroideri
 
 The time per letter varies, but it takes roughly 20-40 minutes. Hopefully, as I continue this project, I will become faster and complete a letter on the first try. At times, I struggle to ensure the stitches are consistent and the shape is symmetrical, which is a requirement for Ainu embroidery. This may sound strict, but I want to maintain the integrity of the embroidery method because this community has been exploited for centuries. Because the Ainu language is an oral language, there is no true written system, so it unfortunately relies on either the Latin alphabet or Japanese Katakana. Therefore, I believe the very least I can do in creating this font is to embroider it in the traditional manner, as a mark of my utmost respect for this craft and culture. 
 
-<img src="/about/images/XOXO.jpg" width="25%" style="float: right;"> 
-
-<img src="/about/images/Signature.jpg" width="25%" style="float: right;">
+<img src="/about/images/XOXO.jpg" width="25%" style="float: right;"> <img src="/about/images/Signature.jpg" width="25%" style="float: right;">
 
