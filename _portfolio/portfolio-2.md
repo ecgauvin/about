@@ -7,3 +7,4 @@ excerpt: This is my embroidered font that you can load and use for yourself! "<b
 ## Fonts
 
 [Download MyFont Regular](../../files/Chijiri1-Regular.ttf)
+[Download MyFont Regular](../../files/Chijiri1-Regular.otf)
